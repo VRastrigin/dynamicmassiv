@@ -1,8 +1,0 @@
-﻿  dynamicmass_final.cpp
-dynamicmass_final.cpp(155): warning C4244: =: преобразование "wint_t" в "char", возможна потеря данных
-dynamicmass_final.cpp(161): warning C4018: <=: несоответствие типов со знаком и без знака
-dynamicmass_final.cpp(172): warning C4018: <=: несоответствие типов со знаком и без знака
-dynamicmass_final.cpp(183): warning C4018: <=: несоответствие типов со знаком и без знака
-  Создание кода
-  Создание кода завершено
-  dynamicmass_final.vcxproj -> D:\Работа\02 работа\Поиск\03. 20.03.2014\Задача\dynamicmass_final\Release\dynamicmass_final.exe
